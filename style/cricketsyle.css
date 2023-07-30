@@ -1,0 +1,61 @@
+body
+{
+    background-image: url('https://us.123rf.com/450wm/nomi25/nomi252208/nomi25220800077/190415288-3d-illustration-of-fiery-cricket-ball-in-abstract-background-3d-rendering.jpg?ver=6');
+    
+}
+ 
+.card1 img{
+
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px rgb(118 25 25);
+    width: 22vw;
+    box-shadow: 4px 4px 20px 10px #888888;
+    
+   
+}
+.card2 img{
+    
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px rgb(118 25 25);
+ 
+    width: 22vw;
+    box-shadow: 4px 4px 20px 10px #888888;   
+
+}
+.card3 img{
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px;
+    width: 22vw;
+    border: solid 11px rgb(118 25 25);
+    box-shadow: 4px 4px 20px 10px #888888;
+    
+
+}
+.parent
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+h2{
+    text-align: center;
+    color: grey;
+    text-decoration-color: darkgray;
+    text-decoration: underline;
+}
+
+.card-body{
+    text-align: center;
+}
+p{
+    color: grey;
+    text-decoration: underline;
+}
+a{
+    color: rgb(24, 163, 66);
+}
+
+  
